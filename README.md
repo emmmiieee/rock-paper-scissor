@@ -1,5 +1,5 @@
 # devil-midget-jesus-game
-
+# A rock-paper-scissor-game but it's devil-midget-jesus-game instead
 
 import random
 choice = ["Devil", "Midget", "Jesus"]
